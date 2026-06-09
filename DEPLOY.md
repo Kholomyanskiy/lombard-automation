@@ -1,11 +1,11 @@
-# LombardPRO — Deploy Guide
+# Lombard — Deploy Guide
 
 ## 1. Supabase (PostgreSQL + Storage)
 
 ### Создать проект
 1. Зайти на [supabase.com](https://supabase.com) → **New project**
 2. Organization: выбрать или создать
-3. Name: `lombard-pro`
+3. Name: `lombard`
 4. Database Password: сгенерировать сильный пароль, сохранить в менеджер паролей
 5. Region: `West EU (Ireland)` — ближайший к Польше
 6. Нажать **Create new project** (ждать ~2 мин)
